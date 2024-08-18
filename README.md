@@ -13,6 +13,11 @@ The Zomato Restaurant Data Analysis project is like taking a big, careful look a
    * **Price Segmentation Analysis:** Created distinct price categories (or buckets) to analyze how restaurants are distributed across different price ranges. This analysis provided valuable insights into the pricing strategies employed by restaurants and how they vary by location. 
    * **Cuisine Popularity Exploration:** Investigated the popularity of different cuisines at both the country and city levels. Interactive features allowed for the visualization of restaurant details such as names, addresses, average cost for two, and ratings. Filters were applied to identify restaurants with the highest votes for specific cuisines, offering targeted insights into consumer preferences and popular dining options.
 
+## Dashboard Overview
+![Screenshot (247)](https://github.com/user-attachments/assets/2323fba2-949c-4e10-8997-8eb60eeea0d1)
+![Screenshot (248)](https://github.com/user-attachments/assets/9dceab6c-0d2b-4e95-9387-fa339c47893b)
+![Screenshot (249)](https://github.com/user-attachments/assets/70ff4549-f55b-4c75-8dcb-d767a720a736)
+
 ## Analytical Tools and Techniques
 
 * **Excel:** Utilized advanced functions including VLOOKUP, PivotTables, and conditional formatting to perform in-depth data analysis and ensure accurate results. These tools facilitated effective data manipulation, aggregation, and presentation. 
